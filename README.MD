@@ -26,4 +26,4 @@ systemd (raccomended, you can install it yourself on whatever you want but I giv
 
 ## DB guide
 Make a database called dwpages and a table called access_data as following:
-![guide](https://support.iranianvacuums.com/attachment/936f666f80d3b2da3df64ecd34efb3ff.png)
+![guide](https://support.iranianvacuums.com/attachment/1773f114c1308b85758c647fafefe6d3.png)
