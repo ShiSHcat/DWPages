@@ -1,0 +1,13 @@
+{
+    "name": "shishcat/dwpages",
+    "type": "project",
+    "require": {
+    },
+    "require-dev": {
+        "amphp/http-client": "dev",
+        "amphp/http-server": "dev",
+        "amphp/mysql": "dev"
+    },
+    "license": "agpl",
+    "minimum-stability": "dev"
+}
