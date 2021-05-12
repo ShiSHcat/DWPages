@@ -15,10 +15,9 @@ The code is very messy and full of bugs, I'd advice a rewrite.
 A cloudflared domain and access to the Cloudflare API\
 MySQL\
 A DWGram Instance\
-systemd (raccomended, you can install it yourself on whatever you want but I give configs only for systemd)
+systemd (reccomended, you can install it yourself on whatever you want but I give configs only for systemd)
 
 ## Installation 
-⚠️ I don't assume any responsability. The software in this repository is provided without any warranty. If you decide to run this, you fully understand what it does and everything caused by it is completely your fault.
 
 1. Make the DB, guide down the readme
 2. Search `SECRET` and change the harddcoded stuff
