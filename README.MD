@@ -8,7 +8,7 @@ Dump of the DWPages sources.\
 I made this project to get experience with the [Amp Framework](https://github.com/amphp).\
 The idea of this project is to make a static hosting that gets pages and assets from Telegram.\
 The code is very messy and full of bugs, I'd advice a rewrite.
-
+### This project is dead. The code of it is bad, wasteful of resources and probably broken. I made this project only to learn.
 ### ⚠️ I don't assume any responsability. The software in this repository is provided without any warranty. If you decide to run this, you fully understand what it does and everything caused by it is completely your fault.
 
 ## Requirements
